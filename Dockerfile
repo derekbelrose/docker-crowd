@@ -3,7 +3,7 @@ FROM develar/java:8u45
 #Version to download:
 #https://www.atlassian.com/software/crowd/downloads/binary/atlassian-crowd-2.9.1.tar.gz
 
-ENV CROWD_VERSION=3.1.2
+ENV CROWD_VERSION=3.2.0
 ENV GLIBC_VERSION=2.23-r3
 ENV CROWD_HOME=/var/atlassian/application-data/crowd
 ENV CROWD_INSTALL=/opt/atlassian/crowd
